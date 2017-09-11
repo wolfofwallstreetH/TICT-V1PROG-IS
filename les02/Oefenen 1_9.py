@@ -34,4 +34,4 @@ hoogteInRadialen = (math.pi * hoekInGraden) / 180
 hoogte = lengte*math.sin(hoekInRadialen)
 
 print(hoogte)
-
+dgsdgsd
